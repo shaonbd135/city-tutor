@@ -1,0 +1,36 @@
+.teachers-info {
+    text-align: center;
+    margin: 20px;
+    border: 1px solid lightgray;
+    display: flex;
+    padding: 5px;
+}
+
+.teachers-info img {
+
+    height: 200px;
+    width: 200px;
+}
+
+.profile-image {
+    width: 40%;
+    border-right: 1px solid lightgray;
+}
+
+.profile-info {
+    width: 60%;
+}
+
+.profile-info button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.salary{
+    color: brown;
+    font-size: 20px;
+}

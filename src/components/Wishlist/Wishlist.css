@@ -1,0 +1,47 @@
+.names{
+    background-color: gray;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+
+.allnames{
+    background-color: brown;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;   
+}
+
+
+.total{
+    border-top: 1px solid lightgray;
+    background-color: lightgray;
+    margin: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.total p {
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.total button{
+    padding: 10px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}

@@ -1,0 +1,35 @@
+.service{
+    display: flex;
+}
+
+
+.teachers{
+    width: 60%;
+    margin: 10px;
+}
+
+.title{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+
+.wishlist{
+    width: 40%;
+    text-align: center;
+    margin: 10px;
+}
+
+.wishlist-title{
+    text-align: center;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+}

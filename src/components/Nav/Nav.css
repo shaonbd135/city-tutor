@@ -1,0 +1,22 @@
+.menu{
+    text-align: center;
+}
+
+.menu nav {
+    background-color: brown;
+    padding: 12px;
+    text-align: center;
+}
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu nav a:hover{
+    color: black;
+    
+}
